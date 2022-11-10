@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HuseyinGokmen
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# & Unity
 - 💞️ I’m looking to collaborate on together learning
 - 📫 How to reach me Linkedin https://www.linkedin.com/in/huseyin-gokmen/
 
